@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pankaj Tiwari</h1>
 <h3>🚀 Hi, I'm Pankaj Tiwari, a Flutter developer passionate about creating great mobile apps.<br />
-💻 I also dabble in the MERN stack, crafting full-stack web applications that are as functional as they are beautiful.<br /> 🧠 With a strong foundation in Data Structures and Algorithms, I strive to write efficient and elegant code that stands the test of time.<br />
+💻 I also work with the MERN stack, creating full-stack web apps that are both functional and attractive.<br /> 🧠 With a strong foundation in Data Structures and Algorithms, I strive to write efficient and elegant code that stands the test of time.<br />
 🌟 Let's build something amazing together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajtiwari002&label=Profile%20views&color=0e75b6&style=flat" alt="pankajtiwari002" /> </p>
